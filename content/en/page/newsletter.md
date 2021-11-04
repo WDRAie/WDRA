@@ -9,7 +9,7 @@ type: newsletterpage
 
 Page of previous newsletters that have been distributed  
 PDF Versions:   
-[Oct 2021 PDF](/Oct2021.pdf)   
+[Oct 2021 PDF](/media/Oct2021.pdf)   
 ## Oct 2021   
 Whitehall/Daingean Road Residents Association   
 
