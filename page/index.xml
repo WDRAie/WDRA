@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Whitehall And Daingean Road Residents Association</title>
+    <link>https://wdra.ie/page/</link>
+    <description>Recent content in Pages on Whitehall And Daingean Road Residents Association</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://wdra.ie/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>https://wdra.ie/page/about/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wdra.ie/page/about/</guid>
+      <description>Whitehall And Daingean Road Residents Association is a local community group set up for the residents of Whitehall and Daingean Road in Tullamore.
+The association has been in existence for over 30 years. It plays an important role in looking after the interests of residents. We arrange for the regular maintenance of the Whitehall estate while representing residents on any local issues that may impact the community.
+Location Map </description>
+    </item>
+    
+    <item>
+      <title>Newsletter</title>
+      <link>https://wdra.ie/page/newsletter/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wdra.ie/page/newsletter/</guid>
+      <description>Page of previous newsletters that have been distributed</description>
+    </item>
+    
+  </channel>
+</rss>
