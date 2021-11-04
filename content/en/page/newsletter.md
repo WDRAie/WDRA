@@ -7,7 +7,9 @@ keywords: ["newsletter", "contact"]
 type: newsletterpage
 ---
 
-Page of previous newsletters that have been distributed   
+Page of previous newsletters that have been distributed  
+PDF Versions:   
+[Oct 2021 PDF](/Oct2021.pdf)   
 ## Oct 2021   
 Whitehall/Daingean Road Residents Association   
 
