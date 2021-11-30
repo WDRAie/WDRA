@@ -13,6 +13,6 @@ thumbnail: /media/img_0297.jpg
 "/media/img_0319.jpg"
 "/media/img_0320.jpg"
 "/media/img_0321.jpg"
-}}
+>}}
 
 
