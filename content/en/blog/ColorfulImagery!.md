@@ -6,7 +6,7 @@ description: "Some images taken by one of our residents"
 tags: ["flowers", "images"]
 thumbnail: /media/img_0297.jpg
 ---
-![](img_0297.jpg)
-![](img_0312.jpg)
+![](/media/img_0297.jpg)
+![](/media/img_0312.jpg)
 
 
