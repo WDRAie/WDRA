@@ -6,6 +6,6 @@ description: "Some images taken by one of our residents"
 tags: ["flowers", "images"]
 thumbnail: /media/img_0297.jpg
 ---
-{{< foldergallery src="/media/" >}}
+{{< foldergallery src="." >}}
 
 
