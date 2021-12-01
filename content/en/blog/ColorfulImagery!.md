@@ -6,4 +6,4 @@ description: "Some images taken by one of our residents"
 tags: ["flowers", "images"]
 thumbnail: /media/colourfulThumbnail.jpg
 ---
-{{< gallery dir="img/flowers/" />}} {{< load-photoswipe >}}
+{{< gallery dir="/img/flowers" />}} {{< load-photoswipe >}}
