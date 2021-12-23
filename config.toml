@@ -13,6 +13,7 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Welcome to the Whitehall And Daingean Road Residents Association site"
       introSubtitle = "Tullamore Co.Offaly"
+      introSubtitle = "We wish all residents a very peaceful and Happy Christmas and every good wish for 2022"
       introPhoto = "/media/picture.jpg"
     [[languages.en.menu.main]]
         name = "Blog"
